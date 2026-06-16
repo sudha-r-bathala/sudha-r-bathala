@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sudha-r-bathala
 - 👀 I’m interested in Everything about Data
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently Exploring Modern Data Stack (dbt, Airflow, Databricks)
 - 💞️ I’m looking to collaborate on Data projects
 - 📫 How to reach me at https://www.linkedin.com/in/sudha-r-bathala/
 
