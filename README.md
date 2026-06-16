@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sudha-r-bathala
+- 👋 Hi, I’m Sudha R Bathala
 - 👀 I’m interested in Everything about Data
 - 🌱 I’m currently Exploring Modern Data Stack (dbt, Airflow, Databricks)
 - 💞️ I’m looking to collaborate on Data projects
